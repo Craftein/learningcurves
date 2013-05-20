@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\miguels\desktop\chat++ - copy\02\chat\chat\main.cpp(114): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : see declaration of 'itoa'
+  Chat.vcxproj -> C:\Users\MiguelS\Desktop\chat++ - Copy\02\Chat\Debug\Chat.exe
